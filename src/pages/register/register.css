@@ -1,0 +1,11 @@
+.errorStyle { 
+    color: red;
+    font-size: 10px; 
+}
+.background{
+    background-image: url('../../images/backpic.jpg'); 
+    height: 720px;
+} 
+.padding{
+    padding: 35px;
+}

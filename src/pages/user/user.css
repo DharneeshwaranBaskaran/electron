@@ -1,0 +1,20 @@
+.backgroundcol{
+    background-color: #e5e5ff;
+     min-height: 100vh;
+} 
+.buttonad{
+    margin-left: 110px;
+}
+.cont{
+     text-align: center; 
+}
+.ins{
+    width: 200px;
+     margin-left: 45px;
+}
+.usebut{
+   background-color: #713ABE;
+    color: white; 
+    border-radius: 5px;
+    margin-left:20px;
+}

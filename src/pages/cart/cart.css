@@ -1,0 +1,27 @@
+.marleft{
+    margin-left: 20px; 
+} 
+.marright{
+     margin-right: 87px;
+} 
+.inp{
+    width: 200px;
+     margin-left: 20px
+}
+.ali{
+    text-align: center;
+}
+.backgroundcols {
+    background-color: #e5e5ff;
+    height: auto;
+    min-height: 800px;
+}
+.addr{
+    display: flex;
+     align-items: center
+}
+.cartempty{
+    display: flex; 
+    align-items: center; 
+    margin-left: 40%;
+}

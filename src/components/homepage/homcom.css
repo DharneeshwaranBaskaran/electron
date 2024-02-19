@@ -1,0 +1,107 @@
+.access {
+    height: 35px;
+    background-color: #6666ff;
+    border-radius: 5px;
+    margin-right: 5px;
+    color: white;
+    margin-left: 1100px;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.latercard {
+    width: 350px;
+    margin-left: 800px;
+
+}
+
+.remindercard {
+    background-color: #ccccff;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+}
+
+.remindermes {
+    font-size: 24px;
+    font-weight: bold;
+    color: #111;
+}
+
+.rembut {
+    margin-left: 30px;
+}
+
+.profilepic {
+    height: 35px;
+    margin-left: 100px;
+}
+
+.helpbut {
+    background-color: #5B0888;
+}
+
+.delivery {
+    color: white;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #5B0888;
+}
+
+.catbut {
+    color: white;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #713ABE;
+    margin-left: 10px;
+}
+
+.helpbutton {
+    background-color: #713ABE;
+}
+
+.selmenu {
+    color: white;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #793FDF;
+    margin-left: 10px;
+}
+
+.cartview {
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #793FDF;
+    margin-left: 10px;
+}
+
+.wishbut {
+    background-color: #7752FE;
+}
+
+.sellerhome {
+    background-color: #e5e5ff;
+    height: auto;
+}
+
+.chart {
+    width: 600px;
+}
+
+.sellerselect {
+    background-color: #713ABE;
+    color: white;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.carticon {
+    height: 20px;
+    padding-right: 5px;
+}

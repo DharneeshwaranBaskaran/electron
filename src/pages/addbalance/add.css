@@ -1,0 +1,19 @@
+.backgroundcol {
+    background-color: #e5e5ff; 
+    height: auto;
+} 
+.back{
+    background-color: white;
+}
+.marleft{
+margin-left: 5px;
+}
+.marright{
+margin-right: 5px;
+}
+.martop{
+    margin-top: 20px
+}
+.col{
+    color: #6499E9;
+}

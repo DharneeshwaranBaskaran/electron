@@ -1,0 +1,30 @@
+.background{
+    background-image: url('../../images/backpic.jpg'); 
+    height: 540vh; 
+} 
+.alignheader{
+    text-align: center;
+} 
+.log{
+    margin-left: 33%; 
+}
+/* .pag{
+    display: flex;
+     justify-content: center;
+     
+} */
+body {
+    overflow-x: hidden;
+  }
+  .pagination ul {
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+  }
+  
+  .pagination ul li {
+    margin: 5px;
+  }
+  
